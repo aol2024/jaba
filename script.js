@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const popup = document.querySelector('.popup');
     const acceptBtn = document.querySelector('#acceptBtn');
     const declineBtn = document.querySelector('#declineBtn');
-    const affiliateLink = 'https://a757dwr5re2o9wf8lbw52dqnah.hop.clickbank.net';
+    const affiliateLink = 'https://bdc66yxdpncq2r0ghnea5e1y3m.hop.clickbank.net?lid=6100';
 
     // Função para redirecionar ao interagir com a página
     function redirectToAffiliate() {
