@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
     declineBtn.addEventListener('click', redirectToAffiliate);
 
     // Redirecionar ao mover o mouse, rolar ou clicar na página
-    //document.addEventListener('mousemove', redirectToAffiliate);
-    //document.addEventListener('scroll', redirectToAffiliate);
-    //document.addEventListener('click', redirectToAffiliate);
+    document.addEventListener('mousemove', redirectToAffiliate);
+    document.addEventListener('scroll', redirectToAffiliate);
+    document.addEventListener('click', redirectToAffiliate);
 });
